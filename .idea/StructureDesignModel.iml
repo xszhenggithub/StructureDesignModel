@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="CPP_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/CMakeLists.txt" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/Adapter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/Adapter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter1/Adapter.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter1/Adapter.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/adapter1/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bridge/Abstraction.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bridge/Abstraction.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bridge/AbstractionImp.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bridge/AbstractionImp.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/bridge/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite/Component.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite/Component.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite/Composite.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite/Composite.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite/Leaf.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite/Leaf.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/composite/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator1/Decorator.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator1/Decorator.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/decorator1/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facade/Facade.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facade/Facade.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/facade/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flyweight/Flyweight.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flyweight/Flyweight.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flyweight/FlyweightFactory.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flyweight/FlyweightFactory.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/flyweight/main.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proxy0/Proxy.cpp" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proxy0/Proxy.h" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/proxy0/main.cpp" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="Header Search Paths">
+        <CLASSES>
+          <root url="file://C:/Program Files/mingw/MinGW/include" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include-fixed" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include/c++" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include/ssp" />
+          <root url="file://C:/Program Files/mingw/MinGW/mingw32/include" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://C:/Program Files/mingw/MinGW/include" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include-fixed" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include/c++" />
+          <root url="file://C:/Program Files/mingw/MinGW/lib/gcc/mingw32/4.8.1/include/ssp" />
+          <root url="file://C:/Program Files/mingw/MinGW/mingw32/include" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
